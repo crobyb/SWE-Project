@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "date": "2023-04-16",
+    "time": "21:00",
+    "description": "Paranormal investigators Ed and Lorraine Warren are back to solve a chilling case involving a murder suspect who claims to have been possessed by a demonic entity.",
+    "theater": "AMC Parkway Pointe 15",
+    "location": "Atlanta, GA"
+  },
+  {
+    "title": "Cruella",
+    "date": "2023-04-17",
+    "time": "19:30",
+    "description": "Witness the origin story of one of Disney's most iconic villains, Cruella de Vil, as she rises to become a notorious fashion designer with a penchant for Dalmatian fur.",
+    "theater": "AMC Parkway Pointe 15",
+    "location": "Atlanta, GA"
+  },
+  {
+    "title": "A Quiet Place Part II",
+    "date": "2023-04-18",
+    "time": "20:15",
+    "description": "Following the events of the first film, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence.",
+    "theater": "AMC Parkway Pointe 15",
+    "location": "Atlanta, GA"
+  }
+]
