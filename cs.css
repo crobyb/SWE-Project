@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color: papayawhip;
+	
+}
+span {
+	
+}
+h1{
+    color: dodgerblue;
+	font-size: 50px;
+	text-align: left;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+	padding: 50px;
+}
+form{
+	width: 200px;
+}
+button {
+	background-color: dodgerblue;
+	color:whitesmoke;
+	
+}
+input {
+	background-image: url('searchicon.png');
+	width:500px;
+	border: 2px solid dodgerblue;
+	border-radius: 4px;
+}
+hr{
+	width: 90%;
+	align-content: center
+}
+.section {
+	float: left;
+	width: 45%;
+	padding: 10px;
+	border-left-style:solid;
+}
+.row::after {
+	content: "";
+	display: grid;
+	
+}
+.gallery{
+	float:right;
+	width: 40%;
+	padding: 5px;
+}
+footer{
+	background-color: dimgray;
+	padding: 20px;
+	opacity: 70%;
+}
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
