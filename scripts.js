@@ -13,7 +13,7 @@ function data_bus(dataLabel, converter) {
     //if no data in converter, send data to user
     if (!converter) {
         //need server url? trying movie server
-        const myRequest = new Request("movies.json");
+        const myRequest = new Request("export.json");
         fetch(myRequest)
             .then((response) => response.json())
             .then((return_data) => {
@@ -35,7 +35,7 @@ function data_bus(dataLabel, converter) {
         //else send data to url for py script to listen
         $.ajax({
             //need url for python to listen on
-            url: "",
+            url: "/test",
             type: "POST",
             contentType: "application/json",
             data: JSON.stringify(converter)
