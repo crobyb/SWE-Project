@@ -1,15 +1,16 @@
 # CS_KSU
+import json
 import googlemaps
 from datetime import datetime
 from flask import Flask, render_template, request
 
 app = Flask(__name__, static_url_path = '/temp2\stat2', static_folder= "temp2\stat2")
 
-@app.route("/")
+@app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template('index.html')
 
-@app.route("/SWE-Project/test", methods=["POST"])
+@app.route('/SWE-Project/test', methods=['POST'])
 def search():
     location = request.get_json()
 
