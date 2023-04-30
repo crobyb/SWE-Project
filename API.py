@@ -9,7 +9,7 @@ app = Flask(__name__, static_url_path = '/temp2\stat2', static_folder= "temp2\st
 def index():
     return render_template("index.html")
 
-@app.route("/test", methods=["POST"])
+@app.route("/SWE-Project/test", methods=["POST"])
 def search():
     location = request.get_json()
 
