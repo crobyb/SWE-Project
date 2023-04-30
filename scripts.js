@@ -47,7 +47,7 @@ function data_bus(converter) {
         //else send data to url for py script to listen
         $.ajax({
             //need url for python to listen on
-            url: "/test",
+            url: "/SWE-Project/test",
             type: "POST",
             contentType: "application/json",
             data: JSON.stringify(converter)
