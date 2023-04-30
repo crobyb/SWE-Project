@@ -1,4 +1,5 @@
 import mysql.connector
+import json
 
 def connect_to_db():
     try:
@@ -25,16 +26,14 @@ def query_database(conn, query):
     result = cursor.fetchall()
     return result
 
+
 # Example usage:
 conn = connect_to_db()
 if conn:
     # Query the database
     query = "SELECT * FROM movies"
     result = query_database(conn, query)
-    if result:
-        print("Results:")
-        for row in result:
-            print(row)
-    else:
-        print("No results")
+    json_object = json.dumps(result, indent=4, default=str)
+    with open("export.json", "w") as outfile:
+        outfile.write(json_object)
     conn.close()
