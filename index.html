@@ -17,8 +17,8 @@
 	<form>
 
 		<label for="zip_regular_search"></label>
-		<input type="search" id="zip_regular_search" name="zip" placeholder="Zip Code or City" class="zip_input">
-		<button onclick="data_director(this)">Search</button>
+		<input type="text" name="zip" placeholder="Zip Code or City" class="zip_input">
+		<button id="zip_regular_search" type="button" class="zip_input" onclick="data_director(this.id)">Search</button>
 
 	</form>
 	<h2>OR</h2>
@@ -27,8 +27,8 @@
 	<form>
 
 		<label for="zip_random_search"></label>
-		<input type="search" id="zip_random_search" name="zip" placeholder="Zip Code or City" class="zip_input">
-		<button onclick="data_director(this)">Search</button>
+		<input type="text" name="zip" placeholder="Zip Code or City" class="zip_input">
+		<button id="zip_random_search" class="zip_input" type="button" onclick="data_director(this.id)">Search</button>
 
 
 	</form>
@@ -84,7 +84,7 @@
 				<div class="desc">Add a synopsis</div>
 			</div>
 		</div>
-		<button onclick="data_director(this)">More</button>
+		<button onclick="data_director(this.class)" id="more_button" type="button" class="more_button">More</button>
 	</div>
 	<div class="clearfix"></div>
 	<br>
