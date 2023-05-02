@@ -1,0 +1,33 @@
+import googlemaps
+from datetime import datetime
+
+gmaps = googlemaps.Client(key='AIzaSyDsXXZgg7G1hz39Bfb-j5WiUXwxlY_aPQo')
+
+# Get the user's location
+address = input("Enter an address:") 
+
+# Geocode the address to get its position
+geocode_result = gmaps.geocode(address)
+location = geocode_result[0]['geometry']['location']
+
+# Define the search parameters (within radius:5000)
+search_params = {
+    'location': f"{location['lat']},{location['lng']}",
+    'radius': 5000,
+    'type': 'movie_theater'
+}
+
+# Perform the search
+theatres = gmaps.places_nearby(**search_params)
+
+# Print the results
+for theatre in theatres['results']:
+    print(theatre['name'], theatre['vicinity'])
+
+
+-----------------------------------------------------------------------------------
+Output:
+
+C:\Users\weeld\Desktop\group proj> cmd /C "C:\Users\weeld\AppData\Local\Programs\Python\Python311\python.exe c:\Users\weeld\.vscode\extensions\ms-python.python-2023.6.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher 57562 -- "C:\Users\weeld\Desktop\group proj\temp2\stat2\# CS_KSU.py" "
+Enter an address:1100 S Marietta Pkwy SE, Marietta, GA 30060
+Studio Movie Grill - Marietta 40 Powers Ferry Road, Marietta
