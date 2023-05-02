@@ -1,26 +1,786 @@
 [
-  {
-    "title": "The Conjuring: The Devil Made Me Do It",
-    "date": "2023-04-16",
-    "time": "21:00",
-    "description": "Paranormal investigators Ed and Lorraine Warren are back to solve a chilling case involving a murder suspect who claims to have been possessed by a demonic entity.",
-    "theater": "AMC Parkway Pointe 15",
-    "location": "Atlanta, GA"
-  },
-  {
-    "title": "Cruella",
-    "date": "2023-04-17",
-    "time": "19:30",
-    "description": "Witness the origin story of one of Disney's most iconic villains, Cruella de Vil, as she rises to become a notorious fashion designer with a penchant for Dalmatian fur.",
-    "theater": "AMC Parkway Pointe 15",
-    "location": "Atlanta, GA"
-  },
-  {
-    "title": "A Quiet Place Part II",
-    "date": "2023-04-18",
-    "time": "20:15",
-    "description": "Following the events of the first film, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence.",
-    "theater": "AMC Parkway Pointe 15",
-    "location": "Atlanta, GA"
-  }
+    {
+        "title": "The Super Mario Bros. Movie (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Evil Dead Rise (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Are You There God? It\u2019s Me, Margaret. (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World (2",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Guy Ritchie's The Covenant (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Dungeons & Dragons: Honor Among Thieves (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Air (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "John Wick: Chapter 4 (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Sisu (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Beau is Afraid (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Polite Society (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Pope's Exorcist (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Renfield (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Star Wars: Return of the Jedi - 40th Anniversary (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Chevalier (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Ponniyin Selvan Part - 2 (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Somewhere in Queens (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Nefarious (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Black Demon (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Suzume (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Come Out in Jesus Name",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Agent (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Scream VI (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Creed III (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "A Father's Heart",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The End of Sex (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Virupaksha (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Kisi Ka Bhai Kisi Ki Jaan (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Showing Up (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Mummies (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Born to Fly (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "SPIRITED AWAY: Live on Stage - Studio Ghibli Fest 2023",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Amazing Maurice (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Nuclear Now (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "His Only Son (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Carmen (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Flashdance 40th Anniversary",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Mafia Mamma (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Wild Life (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "How to Blow Up a Pipeline (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Snag (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Everything Went Fine (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Shazam! Fury of the Gods (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Harley (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Eight Mountains (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Cocaine Bear (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Ant-Man and the Wasp: Quantumania (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Paachuvum Albhuthavilakkum (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "65 (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Delicious Romance (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Jesus Revolution (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "R.M.N. (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "To Catch a Killer (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Plane (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Money Back Guarantee (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "A Thousand and One (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Little Richard: I Am Everything (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Sick of Myself (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Are You There God? It\u2019s Me, Margaret. - Early Screenings (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Champions (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Annhi Dea Mazaak Ae (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Metropolitan Opera: Champion (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Knock at the Cabin (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Hilma (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Missing (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Operation Fortune: Ruse de Guerre (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "With This Light (2023) (Con esta luz)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "National Theatre Live: Good",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "A Good Person (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Subspecies V: Blood Rise (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Sweetwater (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "My Neighbor Totoro 35th Anniversary - Studio Ghibli Fest 2023",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 3 (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Love Again (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "A Father's Heart",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Metropolitan Opera: Champion Encore (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "What's Love Got to Do with It? (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "UFC 288: Sterling vs Cejudo",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Double Life (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The IMAX Guardians of the Galaxy Marathon (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "One Ranger (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Anxious Nation (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Rama Banam (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Jodi (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Slava Ukraini (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Land of Gold (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Johnny & Clyde (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Afwaah (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "De Humani Corporis Fabrica (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Guardians of the Galaxy Marathon (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Revenge of the Smith",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Theaters of War (2022)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "2018 (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Space Wars: Quest for the Deepstar (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Chotima Test Movie Prod",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Running for Justice (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "Revenge of the Smith",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    },
+    {
+        "title": "The Melt Goes On Forever: The Art & Times of David Hammons (2023)",
+        "date": "",
+        "time": "",
+        "description": "",
+        "theater": "",
+        "location": ""
+    }
 ]
